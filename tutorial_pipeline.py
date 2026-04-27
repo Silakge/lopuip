@@ -11,9 +11,9 @@ from non_tutorial_pipeline import process_non_tutorial
 
 TRIES_PER_REF = 2
 
-INPUT_FILE = "harm3.json"
-OUTPUT_FILE = "harm3_pipeline_output.json"
-SLIM_OUTPUT_FILE = "harm3_slim_output.json"
+INPUT_FILE = "harm.json"
+OUTPUT_FILE = ""
+SLIM_OUTPUT_FILE = ""
 
 
 # ============ LLM 2: Core Content Extractor (few-shot) ============
